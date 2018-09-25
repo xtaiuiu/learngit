@@ -1,3 +1,1 @@
-Git is a distributed version control system. 
-It is a free software distributed under GPL.
-Git tracks changes.
+Test if git can manage Windows Word files as well.
